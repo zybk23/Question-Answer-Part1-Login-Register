@@ -16,7 +16,7 @@
     "react-pose": "^4.0.10",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "css-loader": "^3.5.3",
+    "css-loader": "^6.7.3",
     "json-server": "^0.16.1",
     "style-loader": "^1.2.1"
   },
